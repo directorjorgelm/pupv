@@ -17,7 +17,7 @@ O PUPV é um padrão aberto e modular para descrever cenas visuais de forma clar
 Veja o arquivo `exemplo_basico.pupv.json` para entender como a estrutura funciona.
 
 ## 🌐 Como testar?
-Abra o arquivo `index.html` em qualquer navegador para carregar e visualizar arquivos .pupv de forma estruturada.
+Abra o arquivo `Example` em qualquer navegador para carregar e visualizar arquivos .pupv de forma estruturada.
 
 ---
 
